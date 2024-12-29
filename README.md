@@ -3,7 +3,7 @@
 
 **Pong Game** is a classic arcade-style game implemented in Python using the Pygame library. It recreates the iconic Pong game where two players control paddles to bounce a ball back and forth.
 
-![Pong Game Screenshot](screenshots/pong_sc.png)
+![Pong Game Screenshot](pong_sc.png)
 
 ## Gameplay
 
